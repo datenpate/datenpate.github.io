@@ -1,0 +1,12 @@
+# Site settings
+title: Christian Jellinghaus
+email: christian@jellinghaus.name
+description: "hello world"
+baseurl: ""
+url: "http://christian.jellinghaus.name"
+twitter_username: datenpate
+github_username:  datenpate
+
+# Build settings
+markdown: kramdown
+permalink: pretty
